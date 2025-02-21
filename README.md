@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guruprasath K</h1>
 <h3 align="center">A passionate Mern Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 Working as a **Backend Developer on Ki mobility Solution pvt ltd**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **guruprasathk03@gmail.com**
 
